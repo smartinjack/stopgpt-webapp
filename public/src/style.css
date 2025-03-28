@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: 'Comic Sans MS', sans-serif;
+  background-color: #121212;
+  color: #f2f2f2;
+}
+textarea, input {
+  border: none;
+  outline: none;
+}
+button {
+  cursor: pointer;
+}
